@@ -10,5 +10,6 @@ SO THAT I can manage my time effectively
 ```
 
 * github: https://github.com/Kel03-byte/day-planner
-* deployed website:
-* screenshots of the deployed website:
+* deployed website:https://kel03-byte.github.io/day-planner/
+* screenshots of the deployed website:![image](https://user-images.githubusercontent.com/74966801/113495525-03804a80-9525-11eb-9872-0e4a719fee6f.png)
+
