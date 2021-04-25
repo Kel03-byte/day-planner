@@ -1,13 +1,6 @@
-# Day-Planner
-I was tasked in creating a simple daily planner with the abilty to save events. I also added a delete button as well!
+# 9 To 5 Day Planner
 
-## User Story
-
-```md
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
-```
+A simple 9-5 daily planner in which the user can add and delete events occuring during the working day!
 
 * github: https://github.com/Kel03-byte/day-planner
 * deployed website:https://kel03-byte.github.io/day-planner/
