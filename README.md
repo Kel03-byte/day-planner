@@ -1,8 +1,35 @@
 # 9 To 5 Day Planner
 
+![license](https://img.shields.io/badge/License-MIT-blue.svg)
+
+## Table of Contents
+
+- [Description](#description)
+- [Usage](#usage)
+- [Links](#links)
+- [Screenshots](#screenshots)
+
+## Description
+
 A simple 9-5 daily planner in which the user can add and delete events occuring during the working day!
 
-* github: https://github.com/Kel03-byte/day-planner
-* deployed website:https://kel03-byte.github.io/day-planner/
-* screenshots of the deployed website:![image](https://user-images.githubusercontent.com/74966801/113495525-03804a80-9525-11eb-9872-0e4a719fee6f.png)
+This app uses:
+* Google Fonts
+* Bootstrap
+* Moments
 
+## Usage
+
+* Click on the Deployed Website link provided in the Links Section
+* Click inside the input area to enter an event
+* Click the save button to save the event
+* To delete an event then click on the event you s=wish to delete and click the delete button
+
+## Links
+
+* Github: https://github.com/Kel03-byte/day-planner
+* Deployed Website:https://kel03-byte.github.io/day-planner/
+
+## Screenshots
+
+* Screenshot of the deployed website:![Screenshot](/assets/screenshots/screenshot.png)
