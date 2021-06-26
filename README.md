@@ -23,7 +23,7 @@ This app uses:
 * Click on the Deployed Website link provided in the Links Section
 * Click inside the input area to enter an event
 * Click the save button to save the event
-* To delete an event then click on the event you s=wish to delete and click the delete button
+* To delete an event then click on the event you wish to delete and click the delete button
 
 ## Links
 
